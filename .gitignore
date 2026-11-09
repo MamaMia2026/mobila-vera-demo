@@ -1,0 +1,6 @@
+node_modules/
+.env*
+desktop.png
+telefon.png
+Citeste-ma.txt
+dist/
